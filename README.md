@@ -27,21 +27,36 @@
 - Building off of the same premies, we dig a little deeper to look in to which hours are busier on which days. But not only looking to which genders are using the service at what time on which day, but we break it down by user type as well. Again, you see the much darker shades of orange in the male column. But specifically in the "Subscriber" row. Again, this correlates with the "Customer Types" figure referenced above that indicates that there are far more subscribers that use the service than just general, one time user customers. 
 
 ![Average Trip Duration by Age](https://github.com/Jess-Vannatter/bikesharing/blob/main/images/Avg_trip_Duration_by_age_viz.png)
-- I wanted to add thisd vizualization because it tells us the age of our users. Which can help with promotions and who we want to possibly gear media campaigns towards.even though the figure breaks down age and trip duration. You can clearly see a more consistent/ level line from users born in 1950 - 2000. The durations may not be extremely long but we are getting no significant drops in usage. In the story we created, I made this chart filterable by gender as well which allows us to see which genders are using the service for longer trips.
+- I wanted to add this vizualization because it tells us the age of our users. Which can help with promotions and who we want to possibly gear media campaigns towards.even though the figure breaks down age and trip duration. You can clearly see a more consistent/ level line from users born in 1950 - 2000. The durations may not be extremely long but we are getting no significant drops in usage. In the story we created, I made this chart filterable by gender as well which allows us to see which genders are using the service for longer trips.
 
 ![Checkout Times by Users](https://github.com/Jess-Vannatter/bikesharing/blob/main/images/Checkout_Times_for%20Users_viz.png)
-- Here we see a breakdown of the the duration of trips. in most cases the trips do not last longer  than 10 minuits and almost never lasting longer than an hour. So this indicates that a successful bikesharing service should be located in a close knit area. A lot of the residents in this area like to go out and see the neighborhood or work very close by. Which makes sense why NYC is a popoular area for these services. A large Urban area is idea, where more Rural locations may not work so well. 
+- Here we see a breakdown of the the duration of trips. In most cases the trips do not last longer than 10 minuits and almost never lasting longer than an hour. So this indicates that a successful bikesharing service should be located in a close knit area. A lot of the residents in this area like to go out and see the neighborhood or work very close by. Which makes sense why NYC is a popoular area for these services. A large Urban area is ideal, where more Rural locations may not work so well. 
 
 ![Checkout Times by Gender](https://github.com/Jess-Vannatter/bikesharing/blob/main/images/Checkout_Times_by_gender_viz.png)
 - Taking the previous visualization further we brokdown the trip durations by gender. this aligns witht eh previous figures breaking down users by gender, as again Males are taking more trips and they are longer trips than Females. Infact it is significantly more. 
-
 
 ![Top Starting Locations](https://github.com/Jess-Vannatter/bikesharing/blob/main/images/Top_starting_Locations_viz.png)
 - Lastly the map above shows which locations in NYC are utilized more. The larger/ darker spots on the map ee a lot more foot traffic/ more riders utilize these are starting spots for their rides. I mainly utilized this figure to place in the story I created to show/ filter which genders and user tpes are using these spots. There are a lot more larger/ darker spots in the center of the city and on the western bank. Are these locations more touristy? Are these residential areas? Byu filtering by "User Type" we may bne able to see which areas are used more by "Subscribers" or by "Customers". Subscribers would indicate that these are the people that live int he are, whereas customers might indicate tourist's.
 
 ## Summary
-- Please reference the Tableau story below. As it utilizes all of the figures/ visualizations aboave and interconnects them by allowing us to filter by not only "user Type'" but also by "Gender"
+- Please reference the Tableau story below. As it utilizes all of the figures/ visualizations aboave and interconnects them by allowing us to filter by not only "User Type'" but also by "Gender" to provide a better understanding of the analysis.
+  - [NYC Bikesharing Story](https://public.tableau.com/app/profile/jvannatter6/viz/Challenge_15_take_2/NYCBikesharingStory)
 
--- [NYC Bikesharing Story](https://public.tableau.com/app/profile/jvannatter6/viz/Challenge_15_take_2/NYCBikesharingStory)
+
+- In General, there are a couple of conclusions that can be drawn from the analysis presented above and correlate with  the downtown/ urban area of Des moines. Iowa being a valid location for a bike sharing service. 
+  - Males are far more likley to use the bikesharing service than Females. That could be for a number of reasons. I would link perceived safety as a possibly reason. As when riding a bike an individual is possibley more of an easier target for criminal acts such as robberies, attacks, etc. I would understand why women, especially in a more populated areas would feel safer driving there cars to work than riding bikes. 
+  - Based on our data, Subscribers are far more likely to use the bikesharing service. Now this may be a diresct result of the geographic location we chose. The general population in NYC does not own a car. They either work remote or work in the city, which makes sense for them to utilize a bike to get around. Becoming a subscriber to a bike sharing service like this could allow them to save money. This may not have the same effect in smaller or more rural areas. 
+ 
+ - Two additinal visualizations that could be utilzed to take the analysis further could possibly relate to breaking down the users by race and socio-economic status of the areas that are utilizing the service more. 
+
+
+
+
+
+
+
+
+
+
 
 
